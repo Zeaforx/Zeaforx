@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20World&fontSize=90" width="100%"/>
 </div>
 
-<h1 align="center">Hi there, I'm Zeaforx a CS Student!</a> 👨‍💻</h1>
+<h1 align="center">Hi there, I'm Caleb a CS Student!</a> 👨‍💻</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Full+Stack+Developer;DevOps+Engineer;Linux+Administrator;Mobile+Application+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
